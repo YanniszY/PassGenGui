@@ -235,7 +235,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "Password Generator"))
         self.logo.setText(_translate("MainWindow", "Password Generator"))
         self.select_label.setText(_translate("MainWindow", "select the number of characters:"))
         self.specialsing.setText(_translate("MainWindow", "special sing"))
