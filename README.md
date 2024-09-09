@@ -34,15 +34,15 @@
     ```
 
    или используйте venv
-
-для Windows:
-```
-activate venv/bin/activate
-```
-для Linux:
-```
-source venv/bin.activate
-```
+    
+    для Windows:
+    ```
+    activate venv/bin/activate
+    ```
+    для Linux:
+    ```
+    source venv/bin.activate
+    ```
 
 ## Запуск
 
@@ -51,7 +51,7 @@ source venv/bin.activate
 ```bash
 python main.py
 ```
-# Использование
+## Использование
 
 1. Введите желаемую длину пароля в соответствующее поле.
 2. Выберите опции для включения специальных символов, цифр и заглавных букв, если необходимо.
