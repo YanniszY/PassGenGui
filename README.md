@@ -23,8 +23,8 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/ваш_ник/PasswordGenerator.git
-    cd PasswordGenerator
+    https://github.com/YanniszY/PassGenGui.git
+    cd PassGenGui
     ```
 
 2. Установите зависимости:
@@ -36,11 +36,11 @@
    или используйте venv
     
     для Windows:
-    ```
+    ```bash
     activate venv/bin/activate
     ```
     для Linux:
-    ```
+    ```bash
     source venv/bin.activate
     ```
 
